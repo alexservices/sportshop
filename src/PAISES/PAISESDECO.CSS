@@ -1,0 +1,115 @@
+body {
+    margin:2em;
+    background-attachment:fixed;
+}
+.encabezado-uno {
+    background-color:rgb(35, 123, 255);
+    display:flex;
+    margin:-33px;
+    padding:15px;
+}
+.encabezado-dos {
+    background-color:rgb(27, 42, 255);
+    display:flex;
+    margin:-33px;
+    padding:15px;
+}
+.encabezado-tres {
+    background-color:rgb(255, 106, 48);
+    display:flex;
+    margin:-33px;
+    padding:15px;
+}
+.encabezado-cuatro {
+    background-color:rgb(255, 74, 74);
+    display:flex;
+    margin:-33px;
+    padding:15px;
+}
+.encabezado-cinco {
+    background-color:rgb(255, 187, 0);
+    display:flex;
+    margin:-33px;
+    padding:15px;
+}
+.txtenca {
+    color:white;
+    text-decoration:underline;
+    font-weight:bold;
+    padding-right:40px;
+}
+.fa-envelope {
+    padding-right:5px;
+}
+.fa-location-dot {
+    padding-right:5px;
+}
+.fa-phone {
+    padding-right:5px;
+}
+.fa-shop {
+    padding-right:5px;
+    color:white;
+}
+.hrrr {
+    margin-top:25px;
+    margin-left:-30px;
+    margin-right:-30px;
+}
+td {
+    text-align:center;
+    padding:10px;
+}
+.links {
+    text-decoration:none;
+    color:black;
+}
+.creted {
+    margin-left:2em;
+    color:white;
+    text-decoration:2px underline black;
+    font: xx-large Karumbi;
+    font-style:italic;
+    font-weight:bold;
+}
+table {
+    margin-top:1.5cm;
+}
+.txtinfopa {
+    margin:1em;
+    border:8px double blue;
+    padding:20px;
+    background-color:white;
+    text-align:justify;
+    font-weight:bold;
+}
+.img-uno {
+    background-image: url(../imagenes/arg1.jpg);
+    background-position: center center;
+    background-size: 36cm;
+}
+.regresar {
+    text-decoration:none;
+    color:white;
+    text-decoration:underline;
+}
+.img-dos {
+    background-image: url(../imagenes/fra1.jpg);
+    background-position: center center;
+    background-size: 36cm;
+}
+.img-tres {
+    background-image: url(../imagenes/esp1.jpg);
+    background-position: center center;
+    background-size: 36cm;
+}
+.img-cuatro {
+    background-image: url(../imagenes/ing1.jpg);
+    background-position: center center;
+    background-size: 36cm;
+}
+.img-cinco {
+    background-image: url(../imagenes/bra1.jpg);
+    background-position: center center;
+    background-size: 36cm;
+}
